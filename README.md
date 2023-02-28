@@ -16,7 +16,7 @@ a common year.
 
 We will be using a ```TRUE``` or ```FALSE``` Boolean conditional statement in our program. A leap year is evenly divisible 
 by ```4```but not by ```100```,or divisible by ```400```. If the above condition is ```TRUE```, then let our program display output
-result ```is a leap year``` but if the conddtion ```FALSE```, then let our program display output result ```is not a leap year```
+result ```is a leap year``` but if the condtion is ```FALSE```, then let our program display output result ```is not a leap year```
 The year is a leap year if it has ```366``` years and not a leap year if it has ```365``` days
 
 ```javascript
